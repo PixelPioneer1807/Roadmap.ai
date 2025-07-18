@@ -36,6 +36,8 @@ Whether you're a beginner or transitioning careers, Roadmap.ai simplifies your j
 ### 🟩 AI-Generated Career Roadmap
 ![Generated Roadmap](Screenshots/Generated_RoadMap.svg)
 
+You can Zoom IN and Zoom Out
+
 
 ---
 
@@ -58,7 +60,25 @@ Whether you're a beginner or transitioning careers, Roadmap.ai simplifies your j
 
 ---
 
-## 🧪 Setup & Installation
+Future Enhancements:
+
+Planned improvements to make the project more powerful and user-friendly:
+
+User Progress Tracking – Let users mark completed steps in the roadmap
+
+External Resource Linking – Attach courses/articles/videos for each roadmap item
+
+Searchable Knowledge Base – Store and retrieve past roadmaps
+
+Fine-Tuned Model Support – Use domain-specific or fine-tuned LLMs for improved accuracy
+
+Login & Profile System – Enable roadmap history and personalization
+
+Export to PDF – Allow users to download roadmaps
+
+Multi-query Mode – Allow comparison between two career paths
+
+Setup & Installation
 
 ```bash
 git clone https://github.com/PixelPioneer1807/Roadmap.ai.git
